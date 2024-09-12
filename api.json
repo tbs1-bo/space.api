@@ -1,17 +1,17 @@
 {
     "api": "0.13",
-    "space": "Amman Valley MakerSpace",
-    "logo": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/logo-square-white-500x500.png",
-    "url": "https://cwmaman.org.uk/makerspace/",
+    "space": "ITA-Projekttag",
+    "logo": "https://raw.githubusercontent.com/tbs1-bo/space.api/main/logo-square-white-500x500.png",
+    "url": "https://it.tbs1.de/",
     "location": {
-        "address": "Youth Resource Center/MakerSpace, Station Road, Glanamman, SA18 1LQ, Wales, United Kingdom",
-        "lon": -3.92288,
-        "lat": 51.80626
+        "address": "Ostring 25, 44787 Bochum, Germany",
+        "lon": 7.225010,
+        "lat": 51.480930
     },
     "contact": {
-        "phone": "01269 823299",
-        "email": "robvenus@cwmamantc.org",
-        "issue_mail": "niccokunzmann@rambler.ru"
+        "phone": "0234 - 96402-0",
+        "email": "bakera@tbs1.de",
+        "issue_mail": "bakera@tbs1.de"
     },
     "issue_report_channels": [
         "issue_mail"
@@ -19,12 +19,12 @@
     "state": {
         "open": false,
         "icon": {
-            "open": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/workshop-open.jpg",
-            "closed": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/workshop-closed.jpg"
+            "open": "https://raw.githubusercontent.com/tbs1-bo/space.api/main/workshop-open.jpg",
+            "closed": "https://raw.githubusercontent.com/tbs1-bo/space.api/main/workshop-closed.jpg"
         }
     },
     "projects": [
-        "http://github.com/AmmanVMS"
+        "http://github.com/tbs1-bo"
     ],
     "cache": {
         "schedule": "m.05"
