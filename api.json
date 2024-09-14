@@ -1,5 +1,7 @@
 {
-    "api": "0.13",
+    "api_compability": [
+        "14"
+    ],
     "space": "ITA-Projekttag",
     "logo": "https://raw.githubusercontent.com/tbs1-bo/space.api/main/logo-135x135.png",
     "url": "https://it.tbs1.de/",
@@ -9,13 +11,8 @@
         "lat": 51.480930
     },
     "contact": {
-        "phone": "0234 - 96402-0",
         "email": "bakera@tbs1.de",
-        "issue_mail": "bakera@tbs1.de"
     },
-    "issue_report_channels": [
-        "issue_mail"
-    ],
     "state": {
         "open": false,
         "icon": {
@@ -26,8 +23,5 @@
     "projects": [
         "http://github.com/tbs1-bo",
         "https://it.tbs1.de/itawiki/index.php/Projekttag"
-    ],
-    "cache": {
-        "schedule": "m.05"
-    }
+    ]
 }
