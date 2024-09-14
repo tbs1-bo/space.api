@@ -24,7 +24,8 @@
         }
     },
     "projects": [
-        "http://github.com/tbs1-bo"
+        "http://github.com/tbs1-bo",
+        "https://it.tbs1.de/itawiki/index.php/Projekttag"
     ],
     "cache": {
         "schedule": "m.05"
